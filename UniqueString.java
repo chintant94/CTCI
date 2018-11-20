@@ -18,4 +18,4 @@ public class UniqueString{
         }
         System.out.println("Unique");
      }
-}
+} 
