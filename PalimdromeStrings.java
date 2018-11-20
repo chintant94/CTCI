@@ -41,4 +41,4 @@ public class PalimdromeStrings{
         }
         System.out.println("It's a permutation");
      }
-}
+} 
